@@ -24,7 +24,7 @@ I include markdown cells to define the goal, steps of the code and present summa
 There are in-line comments to further describe some steps in the code.
 
 ## Results <a name="results"></a>
-The main results of this project can be found on my Medium page [click here]()
+The main results of this project can be found on my Medium page [click here](https://olivianabbosa.medium.com/insights-from-the-starbucks-rewards-mobile-application-746f4f2e1511)
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
