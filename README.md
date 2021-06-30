@@ -28,5 +28,5 @@ The main results of this project can be found on my Medium page [click here]()
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-I must give credit to Starbucks for providing the data that has been used in this project. You can find the mobile app [here] (https://play.google.com/store/apps/details?id=com.starbucks.mobilecard&hl=sv&gl=US)
+I must give credit to Starbucks for providing the data that has been used in this project. You can find the mobile app [here](https://play.google.com/store/apps/details?id=com.starbucks.mobilecard&hl=sv&gl=US)
 Special thanks to Udacity that has provided the resource material and training throughout the project [here](https://www.udacity.com/)
